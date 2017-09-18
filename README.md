@@ -1,6 +1,6 @@
 # Summer2018TechInternships
 Amazon: https://www.amazon.jobs/team/university-internships?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&team_category%5B%5D=university-internships&cache
- Special for the techy Folks:
+ Special for these in tech:
 https://www.amazon.jobs/en/teams/university-tech-internship?base_query=&loc_query=&job_count=10&result_limit=10&sort=relevant&team_category%5B%5D=university-tech-internship&cache
    Various locations.
 GitHub: https://github.com/blog/2428-summer-internships-at-github-in-san-francisco
@@ -20,3 +20,7 @@ Samsung: https://careers.ap.samsung.com/careers/svc/app/viewSearchJob
     Various locations.
 IBM: http://www-05.ibm.com/employment/uk-en/undergraduates.html
     Various Locations. 2018 still not open yet but seriously, go register your interest NOW, it's IBM + for different areas not only Tech! 
+Capital One: https://campus.capitalone.com/intern/
+    Location: Texas, Virginia, and New York
+Google: https://careers.google.com/students/
+    Summer 2018 interrnships are not up yet, but my advice is: Search for your desired role and turn on alerts for it and keep an eye on their website, THIS IS GOOGLE! 
