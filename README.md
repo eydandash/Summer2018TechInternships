@@ -7,6 +7,8 @@ GitHub: https://github.com/blog/2428-summer-internships-at-github-in-san-francis
   San Francisco--Summer 2018
 Apple: https://jobs.apple.com/us/search?jobFunction=CGINT#function&t=0&sb=req_open_dt&so=1&j=CGINT&pN=0 
   Mostly San Francisco--  2017-Summer 2018
+Facebook: https://www.facebook.com/careers/university/internships/engineering 
+  Various locations. Summer 2018 internships+ other opportunities all year round are available.
 Skyscanner: https://www.skyscanner.net/jobs/graduates/
    Still not available. Locations: http://www.oracle.com/us/corporate/careers/college/intern-at-oracle/product-development/index.html#close
 Oracle: http://www.oracle.com/us/corporate/careers/college/intern-at-oracle/product-development/index.html#close
